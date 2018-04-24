@@ -1,0 +1,8 @@
+{
+  "name": "ionic-alpha-scroll-dev",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
